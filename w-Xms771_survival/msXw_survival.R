@@ -19,8 +19,7 @@ library("Hmisc") # needed for fct errbar
 library("survival") # KM and cox model
 library("ggplot2") # nicer graphs
 library("broom") # tidy
-library("GGally")
-require(survminer)
+#require(survminer)
 library(cowplot)
 
 ### functions ####
